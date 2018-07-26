@@ -3,7 +3,7 @@ print(person)
 print(person['name'])
 print(person['email'])
 
-person['name'] = 'Jay'
+person['name'] = 'Jay' 
 
 print(person.items())
 for key, value in person.items():
