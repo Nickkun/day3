@@ -1,3 +1,4 @@
+number = 10
 name = "Nick"
 city = 'Seoul'
 print(name)

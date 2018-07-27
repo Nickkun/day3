@@ -1,14 +1,14 @@
 message = ''
 
-# while message != 'quit':
-#     message = input("typing you message: ")
-#     print(">" + message)
+while message != 'quit':
+    message = input("typing you message: ")
+    print(">" + message)
 
-# while True: 
-#     message = input("typing you message: ")
-#     print(">" + message)
-#     if message == 'quit':
-#         break
+while True: 
+    message = input("typing you message: ")
+    print(">" + message)
+    if message == 'quit':
+        break
 
 while number < 10:
     number = number+1
